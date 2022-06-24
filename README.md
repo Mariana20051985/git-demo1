@@ -3,7 +3,7 @@ for learning
 - line 1
 - line 2 - fx
 - line 2 
-- line 3
+- line 3 - fix2
 - feature 1
 - feature 1.1
 - feature 2
