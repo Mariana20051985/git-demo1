@@ -11,4 +11,8 @@ for learning
 - feature 3
 - feature 3.1
 - feature 3.2
-
+ - update 1
+ - update 2
+ - change 1
+ - change 2
+ - change 3
