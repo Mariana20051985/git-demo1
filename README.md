@@ -1,7 +1,7 @@
 # git-demo1
 for learning
 - line 1
-- line 2 -ms, f2
+- line 2 - fx
 - line 2 
 - line 3
 - feature 1
